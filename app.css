@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+#clock{
+    background-color: plum;
+    height: 100px;
+    width: 300px;
+    font-size: 33px;
+}
+#k1{
+    background-color: lightgreen;
+    height: 250px;
+    width: 400px;
+}
