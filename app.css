@@ -12,3 +12,11 @@ body{
     height: 250px;
     width: 400px;
 }
+.card{
+    background-color: bisque;
+   
+}
+#orasac03{
+    display: flex;
+    flex-direction: row;
+}
