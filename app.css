@@ -14,9 +14,26 @@ body{
 }
 .card{
     background-color: bisque;
-   
+}
+#bukuljaImage{
+    width: 700px;
+    height: 300px;
+    background-color: purple;
 }
 #orasac03{
     display: flex;
     flex-direction: row;
 }
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:60%;
+    width:60%;
+    position:absolute;
+    }
